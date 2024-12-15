@@ -91,7 +91,7 @@
 }
 
 .desktop .polygon-2 {
-  position: absolute;
+  position: absolute;			
   width: 1920px;
   height: 4115px;
   top: 113px;
@@ -3545,7 +3545,7 @@
 .desktop .text-wrapper-127 {
   top: 6349px;
   left: 786px;
-  font-family: "Nanumgothic", Helvetica;
+  font-family: "Inter", Helvetica;
   font-weight: 700;
   color: #2d411b;
   font-size: 28px;
