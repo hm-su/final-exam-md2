@@ -3742,33 +3742,3 @@
   top: 4361px;
   left: -15451px;
 }
-
-.desktop .view {
-  position: absolute;
-  width: 663px;
-  height: 372px;
-  top: 507px;
-  left: 0;
-  background-image: url(./img/polygon-3-2.svg);
-  background-size: 100% 100%;
-}
-
-.desktop .view-2 {
-  top: 239px;
-  position: absolute;
-  width: 663px;
-  height: 372px;
-  left: 0;
-  background-image: url(./img/polygon-3-3.svg);
-  background-size: 100% 100%;
-}
-
-.desktop .view-3 {
-  top: 0;
-  position: absolute;
-  width: 663px;
-  height: 372px;
-  left: 0;
-  background-image: url(./img/polygon-3.svg);
-  background-size: 100% 100%;
-}
