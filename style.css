@@ -1,3 +1,20 @@
+.nanum-gothic-regular {
+  font-family: "Nanum Gothic", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nanum-gothic-bold {
+  font-family: "Nanum Gothic", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.nanum-gothic-extrabold {
+  font-family: "Nanum Gothic", serif;
+  font-weight: 800;
+  font-style: normal;
+}
 .desktop {
   background-color: #ffffff66;
   display: flex;
@@ -2661,8 +2678,8 @@
   width: 100px;
   top: 5px;
   left: 0;
-  font-family: "NanumGothic-Bold", Helvetica;
-  font-weight: 700;
+  font-family: "NanumGothic-regular", Helvetica;
+  font-weight: 00;
   color: #eefac4;
   font-size: 36px;
   line-height: normal;
@@ -2684,7 +2701,7 @@
   position: absolute;
   width: 1118px;
   height: 669px;
-  top: 1126 5px;
+  top: 11265px;
   left: 570px;
 }
 
@@ -3524,7 +3541,7 @@
 .desktop .text-wrapper-127 {
   top: 6349px;
   left: 786px;
-  font-family: "Inter-Bold", Helvetica;
+  font-family: "nanum-gothic-regular", Helvetica;
   font-weight: 700;
   color: #2d411b;
   font-size: 28px;
@@ -3589,7 +3606,7 @@
   position: absolute;
   width: 250px;
   height: 200px;
-  top: 7153px;
+  top: 7203px;
   left: 1732px;
   object-fit: contain;
   opacity: 0.4;
@@ -3600,7 +3617,7 @@
   width: 187px;
   height: 168px;
   top: 7184px;
-  left: 1739px;
+  left: 1789px;
   object-fit: contain;
   opacity: 0.4;
 }
